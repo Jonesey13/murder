@@ -35,6 +35,7 @@ pt.minimumPlayers = "Not enough players to start round"
 pt.waitingToStart = "Waiting to start round"
 pt.roundStartsInTime = "Round starts in {seconds}"
 pt.roundStarted = "A new round has started"
+pt.timeLeft = "Time left to survive: {seconds}"
 
 
 pt.adminMurdererSelect = "{player} will be Murderer next round"
